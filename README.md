@@ -2,6 +2,10 @@
 
 这是一个基于 TypeScript 的 Model Context Protocol (MCP) 服务器，专门提供阿里云通义万相的文生图(Text-to-Image)和文生视频(Text-to-Video)能力。该服务器通过 MCP 协议，允许大语言模型（LLM）直接调用通义万相的图像和视频生成 API。
 
+<a href="https://glama.ai/mcp/servers/@Suixinlei/tongyi-wanx-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Suixinlei/tongyi-wanx-mcp-server/badge" alt="Tongyi Wanxiang Server MCP server" />
+</a>
+
 ## 功能特点
 
 - **文生图能力集成**：接入阿里云通义万相文生图 API，支持高质量的 AI 图像生成
@@ -157,4 +161,4 @@ project/
 ## 参考资料
 
 - [通义万相 API 文档](https://help.aliyun.com/document_detail/2512439.html)
-- [Model Context Protocol (MCP) 规范](https://github.com/llm-protocol/mcp-spec) 
+- [Model Context Protocol (MCP) 规范](https://github.com/llm-protocol/mcp-spec)
