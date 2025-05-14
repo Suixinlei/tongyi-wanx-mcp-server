@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/suixinlei-tongyi-wanx-mcp-server-badge.png)](https://mseep.ai/app/suixinlei-tongyi-wanx-mcp-server)
+
 # 通义万相 MCP 服务器
 
 这是一个基于 TypeScript 的 Model Context Protocol (MCP) 服务器，专门提供阿里云通义万相的文生图(Text-to-Image)和文生视频(Text-to-Video)能力。该服务器通过 MCP 协议，允许大语言模型（LLM）直接调用通义万相的图像和视频生成 API。
